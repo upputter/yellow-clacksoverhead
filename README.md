@@ -1,4 +1,4 @@
-# ClacksOverhead 0.0.1
+# Clacksoverhead 0.0.1
 
 Send a X-Clacks-Overhead HTTP header.
 
